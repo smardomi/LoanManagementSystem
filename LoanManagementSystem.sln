@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{86EDCC4D-6A3E-47C3-95E7-FEB95A072A90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{6CF58564-E3C9-4936-B458-66F0AF50C04C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{3C313F0B-AA2D-4719-90C5-A16F696C0C1F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrascructure", "Infrascructure", "{0D34D9E3-8244-48A7-A203-DE9621065FA6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Endpoint", "Endpoint", "{654E2E79-0639-4DFA-8813-DC9DE4506CE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.Domain", "src\Domain\LoanManagementSystem.Domain\LoanManagementSystem.Domain.csproj", "{A4CCEC24-C6EB-425C-BB8E-C881E48268BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.Application", "src\Application\LoanManagementSystem.Application\LoanManagementSystem.Application.csproj", "{3DFD3423-1EF9-4226-AD26-1C2879DBFBAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.Infrascructure", "src\Infrascructure\LoanManagementSystem.Infrascructure\LoanManagementSystem.Infrascructure.csproj", "{E8EF4609-5D8E-439F-8924-F3F112184D4B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.API", "src\Endpoint\LoanManagementSystem.API\LoanManagementSystem.API.csproj", "{99CD5E69-B320-4A32-871C-33F3AC6CB056}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4CCEC24-C6EB-425C-BB8E-C881E48268BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4CCEC24-C6EB-425C-BB8E-C881E48268BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4CCEC24-C6EB-425C-BB8E-C881E48268BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4CCEC24-C6EB-425C-BB8E-C881E48268BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DFD3423-1EF9-4226-AD26-1C2879DBFBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DFD3423-1EF9-4226-AD26-1C2879DBFBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DFD3423-1EF9-4226-AD26-1C2879DBFBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DFD3423-1EF9-4226-AD26-1C2879DBFBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8EF4609-5D8E-439F-8924-F3F112184D4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8EF4609-5D8E-439F-8924-F3F112184D4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8EF4609-5D8E-439F-8924-F3F112184D4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8EF4609-5D8E-439F-8924-F3F112184D4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99CD5E69-B320-4A32-871C-33F3AC6CB056}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99CD5E69-B320-4A32-871C-33F3AC6CB056}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99CD5E69-B320-4A32-871C-33F3AC6CB056}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99CD5E69-B320-4A32-871C-33F3AC6CB056}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6CF58564-E3C9-4936-B458-66F0AF50C04C} = {86EDCC4D-6A3E-47C3-95E7-FEB95A072A90}
+		{3C313F0B-AA2D-4719-90C5-A16F696C0C1F} = {86EDCC4D-6A3E-47C3-95E7-FEB95A072A90}
+		{0D34D9E3-8244-48A7-A203-DE9621065FA6} = {86EDCC4D-6A3E-47C3-95E7-FEB95A072A90}
+		{654E2E79-0639-4DFA-8813-DC9DE4506CE3} = {86EDCC4D-6A3E-47C3-95E7-FEB95A072A90}
+		{A4CCEC24-C6EB-425C-BB8E-C881E48268BB} = {6CF58564-E3C9-4936-B458-66F0AF50C04C}
+		{3DFD3423-1EF9-4226-AD26-1C2879DBFBAF} = {3C313F0B-AA2D-4719-90C5-A16F696C0C1F}
+		{E8EF4609-5D8E-439F-8924-F3F112184D4B} = {0D34D9E3-8244-48A7-A203-DE9621065FA6}
+		{99CD5E69-B320-4A32-871C-33F3AC6CB056} = {654E2E79-0639-4DFA-8813-DC9DE4506CE3}
+	EndGlobalSection
+EndGlobal

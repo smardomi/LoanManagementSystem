@@ -1,0 +1,12 @@
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\bin\Debug\net9.0\LoanManagementSystem.Domain.deps.json
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\bin\Debug\net9.0\LoanManagementSystem.Domain.dll
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\bin\Debug\net9.0\LoanManagementSystem.Domain.pdb
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\obj\Debug\net9.0\LoanManagementSystem.Domain.csproj.AssemblyReference.cache
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\obj\Debug\net9.0\LoanManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\obj\Debug\net9.0\LoanManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\obj\Debug\net9.0\LoanManagementSystem.Domain.AssemblyInfo.cs
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\obj\Debug\net9.0\LoanManagementSystem.Domain.csproj.CoreCompileInputs.cache
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\obj\Debug\net9.0\LoanManagementSystem.Domain.dll
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\obj\Debug\net9.0\refint\LoanManagementSystem.Domain.dll
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\obj\Debug\net9.0\LoanManagementSystem.Domain.pdb
+D:\Saeed\Projects\LoanManagementSystem\src\Domain\LoanManagementSystem.Domain\obj\Debug\net9.0\ref\LoanManagementSystem.Domain.dll

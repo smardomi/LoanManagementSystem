@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "LoanManagementSystem.Web.Endpoints.Users",
+    "Method": "LoginUser",
+    "RelativePath": "Users/LoginUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "LoanManagementSystem.Application.Features.Identity.User.Commands.LoginUser.LoginUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LoanManagementSystem.Web.Endpoints.Users",
+    "Method": "RegisterUser",
+    "RelativePath": "Users/RegisterUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "LoanManagementSystem.Application.Features.Identity.User.Commands.RegisterUser.RegisterUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
