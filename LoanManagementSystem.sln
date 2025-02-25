@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{86EDCC4D-6A3E-47C3-95E7-FEB95A072A90}"
 EndProject
@@ -20,6 +20,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.Infrascructure", "src\Infrascructure\LoanManagementSystem.Infrascructure\LoanManagementSystem.Infrascructure.csproj", "{E8EF4609-5D8E-439F-8924-F3F112184D4B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.API", "src\Endpoint\LoanManagementSystem.API\LoanManagementSystem.API.csproj", "{99CD5E69-B320-4A32-871C-33F3AC6CB056}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{F841058F-70F0-4882-8FB5-E00EB1E7BE00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.UnitTests", "test\LoanManagementSystem.UnitTests\LoanManagementSystem.UnitTests.csproj", "{C909B419-9082-4A0C-9A88-56E1DEC3FA79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +47,10 @@ Global
 		{99CD5E69-B320-4A32-871C-33F3AC6CB056}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99CD5E69-B320-4A32-871C-33F3AC6CB056}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99CD5E69-B320-4A32-871C-33F3AC6CB056}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C909B419-9082-4A0C-9A88-56E1DEC3FA79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C909B419-9082-4A0C-9A88-56E1DEC3FA79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C909B419-9082-4A0C-9A88-56E1DEC3FA79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C909B419-9082-4A0C-9A88-56E1DEC3FA79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -56,5 +64,6 @@ Global
 		{3DFD3423-1EF9-4226-AD26-1C2879DBFBAF} = {3C313F0B-AA2D-4719-90C5-A16F696C0C1F}
 		{E8EF4609-5D8E-439F-8924-F3F112184D4B} = {0D34D9E3-8244-48A7-A203-DE9621065FA6}
 		{99CD5E69-B320-4A32-871C-33F3AC6CB056} = {654E2E79-0639-4DFA-8813-DC9DE4506CE3}
+		{C909B419-9082-4A0C-9A88-56E1DEC3FA79} = {F841058F-70F0-4882-8FB5-E00EB1E7BE00}
 	EndGlobalSection
 EndGlobal
